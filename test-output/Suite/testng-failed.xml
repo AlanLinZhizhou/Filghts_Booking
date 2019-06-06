@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="second-para" value="second"/>
+  <parameter name="first-para" value="first"/>
+  <test name="WebTours(failed)">
+    <classes>
+      <class name="com.jlxy.lzz.WebTour">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="f"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.jlxy.lzz.WebTour -->
+    </classes>
+  </test> <!-- WebTours(failed) -->
+</suite> <!-- Failed suite [Suite] -->

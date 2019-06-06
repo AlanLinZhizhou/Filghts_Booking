@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18270" started-at="2019-06-05T06:02:27Z" finished-at="2019-06-05T06:02:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18270" started-at="2019-06-05T06:02:27Z" finished-at="2019-06-05T06:02:45Z">
+      <class name="com.jlxy.lzz.WebTour">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.jlxy.lzz.WebTour@17ed40e0]" name="beforeTest" is-config="true" duration-ms="12" started-at="2019-06-05T14:02:27Z" finished-at="2019-06-05T14:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.jlxy.lzz.WebTour@17ed40e0]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-06-05T14:02:27Z" finished-at="2019-06-05T14:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.jlxy.lzz.WebTour@17ed40e0]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-05T14:02:27Z" finished-at="2019-06-05T14:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:com.jlxy.lzz.WebTour@17ed40e0]" name="f" duration-ms="18235" started-at="2019-06-05T14:02:27Z" finished-at="2019-06-05T14:02:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Window]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Business]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.jlxy.lzz.WebTour@17ed40e0]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-05T14:02:45Z" finished-at="2019-06-05T14:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.jlxy.lzz.WebTour@17ed40e0]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-06-05T14:02:45Z" finished-at="2019-06-05T14:02:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.jlxy.lzz.WebTour -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

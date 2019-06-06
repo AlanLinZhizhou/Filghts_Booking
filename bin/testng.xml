@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+<!-- <parameter name="first-para"  value="first"/>
+<parameter name="second-para"  value="second"/> -->
+  <test name="WebTours">
+    <classes>
+      <class name="com.jlxy.lzz.WebTour"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
